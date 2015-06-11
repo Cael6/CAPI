@@ -11,7 +11,7 @@ int CScene::Init() {
 	//The window to be rendered
 	window = NULL;
 
-	//The surface in the window#
+	//The surface in the window
 	screen_surface = NULL;
 
 	//Initialize SDL
